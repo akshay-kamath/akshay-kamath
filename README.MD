@@ -1,10 +1,10 @@
 ### 
 👋 Hi there, I’m @akshay-kamath
-👀 I’m interested in Data Science and Software Development.
-🌱 I’m currently working as Senior Software Engineer at Accenture
-💞️ I’m looking to collaborate on interesting ML solutions 
-💬 Ask me about Cloud / Containers / Chaos Engineering / Microservices
-📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/akshay-kamath/)
+- 👀 I’m interested in Data Science and Software Development.
+- 🌱 I’m currently working as Senior Software Engineer at Accenture
+- 💞️ I’m looking to collaborate on interesting ML solutions 
+- 💬 Ask me about Cloud / Containers / Chaos Engineering / Microservices
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/akshay-kamath/)
 
 <!--
 **akshay-kamath/akshay-kamath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
