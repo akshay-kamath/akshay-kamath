@@ -1,7 +1,7 @@
 ### 
 👋 Hi there, I’m @akshay-kamath
 - 👀 I’m interested in Data Science and Generative AI.
-- 🌱 I’m currently working as Information Technology Analyst at Tata Consultancy Services
+- 🌱 I’m currently working as Senior AI Engineer at Tata Consultancy Services
 - 💞️ I’m looking to collaborate on interesting ML solutions 
 - 💬 Ask me about Data Science/ Cloud / Containers / Chaos Engineering / Microservices / Generative AI
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/akshay-kamath/)
