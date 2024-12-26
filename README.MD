@@ -3,6 +3,7 @@
 - 👀 I’m interested in Data Science and Generative AI.
 - 🌱 I’m currently working as Senior AI Engineer at Tata Consultancy Services
 - 💞️ I’m looking to collaborate on interesting ML and Generative AI solutions 
+- 🌱 **Always Learning:** Cutting-edge ML techniques, Model Deployment Strategies, and AI Ethics
 - 💬 Ask me about Data Science/ Cloud / Containers / Chaos Engineering / Microservices / Generative AI
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/akshay-kamath/)
 
@@ -15,8 +16,9 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=akshay-kamath&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=akshay-kamath&theme=onestar&no-frame=false&no-bg=true&margin-w=4)
 
-[![](https://visitcount.itsvg.in/api?id=akshay-kamath&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://visitor-badge.laobi.icu/badge?page_id=akshay-kamath.akshay-kamath)
 
 <!--
 <img src="https://github-readme-stats.vercel.app/api?username=akshay-kamath&&show_icons=true&title_color=ffffff&icon_color=5db6fc&text_color=a3d6ff&bg_color=004475"/>-->
