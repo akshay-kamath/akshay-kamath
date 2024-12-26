@@ -10,12 +10,6 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=akshay-kamath&show_icons=true&theme=tokyonight)
 ![](https://visitor-badge.laobi.icu/badge?page_id=akshay-kamath.akshay-kamath)
 
-### 📈 Contributions & Activity
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=akshay-kamath&theme=tokyonight&hide_border=true" alt="Contribution Graph" />
-</p>
-
-
 
 <!--
 <img src="https://github-readme-stats.vercel.app/api?username=akshay-kamath&&show_icons=true&title_color=ffffff&icon_color=5db6fc&text_color=a3d6ff&bg_color=004475"/>-->
