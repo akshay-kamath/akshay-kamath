@@ -17,6 +17,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=akshay-kamath&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 ![](https://github-profile-trophy.vercel.app/?username=akshay-kamath&theme=onestar&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=akshay-kamath&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=akshay-kamath.akshay-kamath)
 
