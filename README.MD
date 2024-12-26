@@ -12,11 +12,11 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akshay-kamath&theme=tokyonight)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=akshay-kamath&show_icons=true&theme=tokyonight)
-![](https://visitor-badge.laobi.icu/badge?page_id=akshay-kamath.akshay-kamath)
+![](https://github-readme-stats.vercel.app/api?username=akshay-kamath&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=akshay-kamath&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=akshay-kamath&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=akshay-kamath&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-![](https://github-profile-trophy.vercel.app/?username=akshay-kamath&theme=onestar&no-frame=false&no-bg=true&margin-w=4)
 ![](https://github-profile-trophy.vercel.app/?username=akshay-kamath&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=akshay-kamath.akshay-kamath)
