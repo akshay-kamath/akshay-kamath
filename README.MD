@@ -20,7 +20,7 @@ Feel free to reach out if you'd like to discuss:
 - **Generative AI**  
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/akshay-kamath) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@akshay-kamath) [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/akshay_kamath)[![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/ak2033)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/akshay-kamath) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@akshay-kamath) [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/akshay_kamath)[![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?logo=kaggle&logoColor=white)](https://www.kaggle.com/ak2033)
 
 
 ### 💻 Tech Stack
