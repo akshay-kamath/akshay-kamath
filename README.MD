@@ -64,7 +64,7 @@ Feel free to reach out if you'd like to discuss:
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=akshay-kamath&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
 
-#![](https://visitor-badge.laobi.icu/badge?page_id=akshay-kamath.akshay-kamath)
+<!-- #![](https://visitor-badge.laobi.icu/badge?page_id=akshay-kamath.akshay-kamath)  -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshay-kamath&label=Profile%20views&color=0e75b6&style=flat" alt="akshaykamath" /> </p>
 
 <h3 align="left">Languages and Tools:</h3>
