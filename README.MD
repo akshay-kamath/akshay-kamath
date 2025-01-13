@@ -19,8 +19,37 @@ Feel free to reach out if you'd like to discuss:
 - **Microservices**  
 - **Generative AI**  
 
-## 🌐 Socials:
+## 🌐 You can follow me here:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/akshay-kamath) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@akshay-kamath) [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/akshay_kamath)[![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?logo=kaggle&logoColor=white)](https://www.kaggle.com/ak2033)
+
+## You can find my projects here: ##
+## [Data Science Portoflio](https://github.com/akshay-kamath/Data-Science-Portfolio) ##
+
+
+<h3 align="left">Connect with me:</h3>
+
+| Media  | Summary |
+| ------------- | ------------- |
+| [Medium ](https://medium.com/@akshaykamath2023)  | Explore my insights and in-depth articles on various topics including but not limited to data science, generative ai, leadership, life, career, mental health and much more   |
+| [Mentoring ](https://topmate.io/#)  | Receive personalized guidance on your data science career, finance, life and mental health (Coming Soon) |
+| [LinkedIn ](https://www.linkedin.com/in/akshay-kamath/)  | I share data science interview questions and practical machine learning tips|
+| [Newsletter ](#)  | Stay updated with my latest thoughts and trends in data science and AI through my newsletter.(Coming Soon)  |
+
+
+<h3 align="left"> Open Source & Projects:</h3>
+
+| Topic  | Summary |
+| ------------- | ------------- |
+| [Data Science Portoflio](https://github.com/akshay-kamath/Data-Science-Portfolio) |My data science skill based portfolio showcasing various projects and case studies |
+| [Data-Science-and-Generative-AI-End-to-End-Projects](https://github.com/akshay-kamath/Data-Science-and-Generative-AI-End-to-End-Projects) | End-to-end data science and generative ai projects for various case studies |
+| [Top LLM Research Papers](https://github.com/akshay-kamath/top-llm-papers)   | A curated list of the top research papers in large language models, providing insights into the latest advancements |
+| [Hugging Face Tutorials](https://github.com/akshay-kamath/hugging-face-tutorials) | A collection of tutorials on using open source llms with hugging face as well as models for speech recognition, audio generation and image processing. These resources cover how to fine tune, deploy and optimize models for various tasks across text, speech, audio and images. |  
+|[Time Series In Python](https://github.com/akshay-kamath/Time-Series-with-Python)| Time series in Python tutorials that covers most of the tasks in a time series project |
+|[Generative AI Blogs](https://medium.com/@akshaykamath2023/list/generative-ai-e3f8eee7b753)| Blogs on Generative AI |
+|[Mentoring](https://medium.com/@akshaykamath2023/list/mentoring-7491032ff052)| I offer personalized mentoring to guide you through your data science career journey, focusing on career development, interview preparation and skill enhancement |
+| [Leadership and Personal Growth](https://medium.com/@akshaykamath2023/list/leadership-a6aa023a2755) | Articles on leadership, personal development and strategies for effective growth |
+|[Finance Insights and Strategies](https://medium.com/@akshaykamath2023/list/finance-56557a2873ef)  | In depth articles covering equity research, corporate finance, banking (retail,private,commercial,investment), capital markets,wealth management along with offering insights and strategies for financial success and much more|
+| [Mental Health and Well being](https://medium.com/@akshaykamath2023/list/mental-wellness-dbc18ecdb036) | Articles focused on mental health, mindfulness, maintaining well being and exploring spirituality for personal growth |
 
 
 ### 💻 Tech Stack
@@ -35,7 +64,8 @@ Feel free to reach out if you'd like to discuss:
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=akshay-kamath&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
 
-![](https://visitor-badge.laobi.icu/badge?page_id=akshay-kamath.akshay-kamath)
+#![](https://visitor-badge.laobi.icu/badge?page_id=akshay-kamath.akshay-kamath)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=akshay-kamath&label=Profile%20views&color=0e75b6&style=flat" alt="akshaykamath" /> </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
