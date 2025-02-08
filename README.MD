@@ -30,7 +30,7 @@ Feel free to reach out if you'd like to discuss:
 
 | Media  | Summary |
 | ------------- | ------------- |
-| [Medium ](https://medium.com/@akshaykamath2023)  | Explore my insights and in-depth articles on various topics including but not limited to data science, generative ai, leadership, life, career, mental health and much more   |
+| [Medium ](https://medium.com/@akshaykamath2023)  | Explore my insights and in depth articles on various topics including but not limited to data science, generative ai, leadership, life, career, mental health and much more   |
 | [Mentoring ](https://topmate.io/#)  | Receive personalized guidance on your data science career, finance, life and mental health (Coming Soon) |
 | [LinkedIn ](https://www.linkedin.com/in/akshay-kamath/)  | I share data science and generative AI information and insights |
 | [Newsletter ](#)  | Stay updated with my latest thoughts and trends in data science and AI through my newsletter.(Coming Soon)  |
@@ -43,7 +43,7 @@ Feel free to reach out if you'd like to discuss:
 | [Data Science Portoflio](https://github.com/akshay-kamath/Data-Science-Portfolio) |My data science skill based portfolio showcasing various projects and case studies |
 | [Data-Science-and-Generative-AI-End-to-End-Projects](https://github.com/akshay-kamath/Data-Science-and-Generative-AI-End-to-End-Projects) | End-to-end data science and generative ai projects for various case studies |
 | [Top LLM Research Papers](https://github.com/akshay-kamath/top-llm-papers)   | A curated list of the top research papers in large language models, providing insights into the latest advancements |
-| [Hugging Face Tutorials](https://github.com/akshay-kamath/hugging-face-tutorials) | A collection of tutorials on using open source llms with hugging face as well as models for speech recognition, audio generation and image processing. These resources cover how to fine tune, deploy and optimize models for various tasks across text, speech, audio and images. |  
+| [Hugging Face Tutorials](https://github.com/akshay-kamath/hugging-face-tutorials) (In progress) | A collection of tutorials on using open source llms with hugging face as well as models for speech recognition, audio generation and image processing. These resources cover how to fine tune, deploy and optimize models for various tasks across text, speech, audio and images. |  
 | [Practical LLM Fine tuning](https://github.com/akshay-kamath/Practical-LLM-Fine-Tuning) |This repository contains hands on tutorials on fine tuning LLMs using different fine tuning techniques |
 |[Time Series In Python](https://github.com/akshay-kamath/Time-Series-with-Python)| Time series in Python tutorials that covers most of the tasks in a time series project |
 |[Generative AI Blogs](https://medium.com/@akshaykamath2023/list/generative-ai-e3f8eee7b753)| Blogs on Generative AI |
