@@ -42,7 +42,7 @@ Feel free to reach out if you'd like to discuss:
 | ------------- | ------------- |
 | [Data Science Portoflio](https://github.com/akshay-kamath/Data-Science-Portfolio) |My data science skill based portfolio showcasing various projects and case studies |
 | [Data-Science-and-Generative-AI-End-to-End-Projects](https://github.com/akshay-kamath/Data-Science-and-Generative-AI-End-to-End-Projects) | End-to-end data science and generative ai projects for various case studies |
-| [Top LLM Research Papers](https://github.com/akshay-kamath/top-llm-papers)   | A curated list of the top research papers in large language models, providing insights into the latest advancements |
+| [AI Research](https://github.com/akshay-kamath/AI-Research/)   | A curated list of research papers in AI, GenAI, large language models, providing insights into the latest advancements |
 | [Hugging Face Tutorials](https://github.com/akshay-kamath/hugging-face-tutorials) (In progress) | A collection of tutorials on using open source llms with hugging face as well as models for speech recognition, audio generation and image processing. These resources cover how to fine tune, deploy and optimize models for various tasks across text, speech, audio and images. |  
 | [Practical LLM Fine tuning](https://github.com/akshay-kamath/Practical-LLM-Fine-Tuning) |This repository contains hands on tutorials on fine tuning LLMs using different fine tuning techniques |
 |[Time Series In Python](https://github.com/akshay-kamath/Time-Series-with-Python)| Time series in Python tutorials that covers most of the tasks in a time series project |
