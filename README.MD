@@ -31,7 +31,7 @@ Feel free to reach out if you'd like to discuss:
 | Media  | Summary |
 | ------------- | ------------- |
 | [Medium ](https://medium.com/@akshaykamath2023)  | Explore my insights and in depth articles on various topics including but not limited to data science, generative ai, leadership, life, career, mental health and much more   |
-| [Mentoring ](https://topmate.io/#)  | Receive personalized guidance on your data science career, finance, life and mental health (Coming Soon) |
+| [Mentoring ](https://topmate.io/akshay2025)  | Receive personalized guidance on your data science career, finance, life and mental health |
 | [LinkedIn ](https://www.linkedin.com/in/akshay-kamath/)  | I share data science and generative AI information and insights |
 | [Newsletter ](#)  | Stay updated with my latest thoughts and trends in data science and AI through my newsletter.(Coming Soon)  |
 
