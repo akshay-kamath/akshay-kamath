@@ -16,8 +16,11 @@ Feel free to reach out if you'd like to discuss:
 - **Data Science**  
 - **Cloud Technologies**  
 - **Containers**  
-- **Microservices**  
+- **Finance**
+- **Research**
 - **Generative AI**  
+- **Technology Consulting**
+
 
 ## 🌐 You can follow me here:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akshay-kamath) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@akshay-kamath) [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/akshay_kamath)[![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/ak2033)
